@@ -1,16 +1,16 @@
 {
   "buses": [
     {
-      "id": 1763929031370,
-      "driver_name": "Steven",
+      "id": 1763934228432,
+      "driver_name": "steven",
       "number_plate": "KAA 123A",
       "route": "CBD → Thika",
-      "conductor_phone": "+254 111277918",
-      "current_location": "Bypass",
-      "next_departure": "12:02",
-      "status": "Updated",
-      "created_at": "2025-11-23T20:17:11.370Z",
-      "updated_at": "2025-11-23T20:21:15.140Z"
+      "conductor_phone": "+254111477918",
+      "current_location": "CBD",
+      "next_departure": null,
+      "status": "Active",
+      "created_at": "2025-11-23T21:43:48.433Z",
+      "updated_at": "2025-11-23T21:43:48.433Z"
     }
   ]
 }
